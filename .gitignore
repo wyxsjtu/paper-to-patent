@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+patent_disclosure/
+*.docx
+!templates/reference.docx
+templates/MML2OMML.XSL
